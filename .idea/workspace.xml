@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd15ebf2-4a01-4c9e-93bd-554fe4a74524" name="Default Changelist" comment="" />
+    <list default="true" id="dd15ebf2-4a01-4c9e-93bd-554fe4a74524" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,17 +36,27 @@
     </option>
   </component>
   <component name="ProjectId" id="1mJPq26TK28bve5BmVhjYaljcZE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mlamp\IdeaProjects\jekins-demo\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="JekinsDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -75,17 +89,70 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609208907137</updated>
-      <workItem from="1609208911425" duration="282000" />
+      <workItem from="1609208911425" duration="2215000" />
+      <workItem from="1609216258742" duration="489000" />
     </task>
+    <task id="LOCAL-00001" summary="ADD: jenkins">
+      <created>1609209414508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609209414508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD: jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: jenkins" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="180" y="0" key="CommitChangelistDialog2" timestamp="1609209413860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="180" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609209413860" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1609209382412">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609209382412" />
+    <state width="1323" height="280" key="GridCell.Tab.0.bottom" timestamp="1609212040851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609212040851" />
+    <state width="1323" height="280" key="GridCell.Tab.0.center" timestamp="1609212040850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609212040850" />
+    <state width="1323" height="280" key="GridCell.Tab.0.left" timestamp="1609212040850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609212040850" />
+    <state width="1323" height="280" key="GridCell.Tab.0.right" timestamp="1609212040851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609212040851" />
+    <state width="1323" height="280" key="GridCell.Tab.1.bottom" timestamp="1609212040851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609212040851" />
+    <state width="1323" height="280" key="GridCell.Tab.1.center" timestamp="1609212040851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1609212040851" />
+    <state width="1323" height="280" key="GridCell.Tab.1.left" timestamp="1609212040851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1609212040851" />
+    <state width="1323" height="280" key="GridCell.Tab.1.right" timestamp="1609212040851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="280" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1609212040851" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609209474812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609209474812" />
   </component>
 </project>
